@@ -1,23 +1,24 @@
 const siteMetadata = {
-  title: 'Quasilinear Musings',
-  author: 'Timothy Lin',
-  headerTitle: 'Quasilinear Musings',
-  description: 'Thoughts from a wandering mind',
-  language: 'en-us',
-  siteUrl: 'https://www.timlrx.com',
-  siteRepo: 'https://github.com/timlrx/timlrx.com',
+  title: 'Raihan PK',
+  author: 'Raihan Putra Kirana',
+  headerTitle: 'Raihan PK',
+  description: 'Your thoughts shape your vision',
+  language: 'id',
+  siteUrl: 'https://www.raihanpk.space',
+  siteRepo: 'https://github.com/itslunareix/raihanpk',
   image: '/static/img/avatar.png',
   socialBanner: '/static/img/twitter-card.png',
-  email: 'timothy.lin@alumni.ubc.ca',
-  github: 'https://github.com/timlrx',
-  twitter: 'https://twitter.com/timlrxx',
-  linkedin: 'https://www.linkedin.com/in/timlrx',
-  locale: 'en-US',
+  email: 'info@raihanpk.space',
+  github: 'https://github.com/itslunareix',
+  twitter: 'https://twitter.com/itslunareix',
+  linkedin: 'https://www.linkedin.com/',
+  discord: 'https://discord.com/users/529339818191224833',
+  locale: 'id',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: false, // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
-    googleAnalyticsId: 'UA-100201704-1', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-RD641LKXPZ', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
     // Please add your .env file and modify it according to your selection
