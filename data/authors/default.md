@@ -5,8 +5,8 @@ occupation: Student
 company: In Highschool
 email: info@raihanpk.space
 twitter: https://twitter.com/itslunareix
-discord: https://discord.com/users/529339818191224833
 github: https://github.com/itslunareix
+discord: https://discord.com/users/529339818191224833
 ---
 
 Selamat datang di blog saya. Blog ini saya gunakan sebagai tempat untuk tempat menyimpan hal yang telah saya pelajari dan untuk belajar menulis yang baik dan benar sesuai dengan kaidahnya.
