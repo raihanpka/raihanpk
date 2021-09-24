@@ -1,4 +1,4 @@
-# Lunareix Blog
+# Raihan PK Blog
 
 ## Motivation
 I create the blog mostly with Bahasa.
@@ -21,4 +21,4 @@ Most of the pictures in this blog are from
 
 ---
 
-Copyright (c) 2021 Raihan Putra Kirana (Lunareix) - Alrights reserved.
+Copyright (c) 2021 Raihan Putra Kirana (raihanpk) - Alrights reserved.

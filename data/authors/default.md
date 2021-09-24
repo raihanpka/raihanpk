@@ -1,12 +1,12 @@
 ---
-name: Timothy Lin
+name: Raihan Putra Kirana
 avatar: /static/img/avatar.png
-occupation: Co-founder
-company: Cylynx
-email: timothy.lin@alumni.ubc.ca
-twitter: https://twitter.com/timlrxx
-linkedin: https://www.linkedin.com/in/timlrx
-github: https://github.com/timlrx
+occupation: Students
+company: In Highschool
+email: raihanputragpr@gmail.com
+twitter: https://twitter.com/itslunareix
+discord: https://discord.gg/svtqNZNYwd
+github: https://github.com/lunareixx
 ---
 
 Welcome to Quasilinear Musings! This blog serves as a playground for me to experiment
