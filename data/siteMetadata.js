@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Raihan PK',
   author: 'Raihan Putra Kirana',
   headerTitle: 'Raihan PK',
-  description: 'Your thoughts shape your vision',
+  description: 'Catatan harian seorang pelajar',
   language: 'id',
   siteUrl: 'https://www.raihanpk.space',
   siteRepo: 'https://github.com/itslunareix/raihanpk',
