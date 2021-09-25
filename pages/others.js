@@ -1,9 +1,9 @@
 import siteMetadata from '@/data/siteMetadata'
-import projectsData from '@/data/projectsData'
+import othersData from '@/data/othersData'
 import Card from '@/components/Card'
 import { PageSEO } from '@/components/SEO'
 
-export default function Projects() {
+export default function Others() {
   return (
     <>
       <PageSEO title={`Others - ${siteMetadata.author}`} description={siteMetadata.description} />
@@ -16,7 +16,7 @@ export default function Projects() {
         </div>
         <div className="container py-12">
           <div className="flex flex-wrap -m-4">
-            {projectsData.map((d) => (
+            {othersData.map((d) => (
               <Card
                 key={d.title}
                 title={d.title}

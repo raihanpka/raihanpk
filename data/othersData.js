@@ -1,4 +1,4 @@
-const projectsData = [
+const othersData = [
   {
     title: 'Server Discord',
     description: `Server yang dikelola langsung oleh saya sendiri. Server yang biasanya saya gunakan untuk diskusi, santai-santai, dan bermain game bersama teman saya. Untuk saat ini tautannya belum bisa digunakan.`,
@@ -7,4 +7,4 @@ const projectsData = [
   },
 ]
 
-export default projectsData
+export default othersData

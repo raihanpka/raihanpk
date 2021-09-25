@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Raihan PK',
   author: 'Raihan Putra Kirana',
   headerTitle: 'Raihan PK',
-  description: 'Catatan harian seorang pelajar',
+  description: 'Websitenya Raihan Putra Kirana',
   language: 'id',
   siteUrl: 'https://www.raihanpk.space',
   siteRepo: 'https://github.com/itslunareix/raihanpk',
@@ -22,7 +22,7 @@ const siteMetadata = {
   },
   newsletter: {
     // Please add your .env file and modify it according to your selection
-    provider: 'emailOctopus',
+    provider: 'buttonDown',
   },
   comment: {
     provider: '', // supported providers: giscus, utterances, disqus
