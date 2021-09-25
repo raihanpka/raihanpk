@@ -20,7 +20,18 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: '#425664',
+        primary: {
+          50: '#7b95a7',
+          100: '#6d899d',
+          200: '#617d91',
+          300: '#577082',
+          400: '#4d6474',
+          500: '#425664',
+          600: '#3f515e',
+          700: '#3a4b57',
+          800: '#35444f',
+          900: '#303e48',
+        },
         gray: colors.trueGray,
       },
       typography: (theme) => ({
@@ -28,11 +39,11 @@ module.exports = {
           css: {
             color: theme('colors.gray.700'),
             a: {
-              color: theme('colors.primary'),
+              color: theme('colors.primary.500'),
               '&:hover': {
-                color: theme('colors.primary'),
+                color: theme('colors.primary.600'),
               },
-              code: { color: theme('colors.primary') },
+              code: { color: theme('colors.primary.400') },
             },
             h1: {
               fontWeight: '700',
@@ -93,11 +104,11 @@ module.exports = {
                   css: {
                     color: theme('colors.gray.300'),
                     a: {
-                      color: theme('colors.primary'),
+                      color: theme('colors.primary.500'),
                       '&:hover': {
-                        color: theme('colors.primary'),
+                        color: theme('colors.primary.400'),
                       },
-                      code: { color: theme('colors.primary') },
+                      code: { color: theme('colors.primary.400') },
                     },
                     h1: {
                       fontWeight: '700',

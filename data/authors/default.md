@@ -9,7 +9,7 @@ github: https://github.com/itslunareix
 discord: https://discord.com/users/529339818191224833
 ---
 
-Selamat datang di blog saya. Blog ini saya gunakan sebagai tempat untuk tempat menyimpan hal yang telah saya pelajari dan untuk belajar menulis yang baik dan benar sesuai dengan kaidahnya.
+Selamat datang di blog saya. Blog ini saya gunakan sebagai tempat untuk menyimpan hal yang telah saya pelajari dan untuk belajar menulis yang baik dan benar.
 
 Saya hanyalah seorang pelajar yang kebetulan saja membuat blog seperti ini karena _iseng_ akibat pandemi yang melanda dunia pada tahun 2020. Biasa diberikan kue dengan ucapan selamat pada tanggal 3 Januari.
 
