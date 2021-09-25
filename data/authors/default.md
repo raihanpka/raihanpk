@@ -1,8 +1,8 @@
 ---
 name: Raihan Putra Kirana
 avatar: /static/img/avatar.png
-occupation: Student
-company: High School
+occupation: Pelajar
+company: SMA
 email: info@raihanpk.space
 twitter: https://twitter.com/itslunareix
 github: https://github.com/itslunareix
