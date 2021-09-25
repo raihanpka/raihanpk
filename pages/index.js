@@ -25,9 +25,9 @@ export default function Home({ posts }) {
               Hai, Saya Raihan Putra Kirana
             </h1>
             <h2 className="text-lg prose text-gray-600 dark:text-gray-400">
-              {`Selamat datang di situs saya – ya!. Saya adalah seorang pelajar yang membuat situs ini untuk menambah wawasan saya. Jika ada waktu kosong, sebisanya saya akan membuat `}
-              <Link href="/blog">blog</Link>
-              {' yang dapat berisi tulisan, opini maupun dokumentasi untuk keperluan saya pribadi. Have a good read!'}
+              {`Selamat datang di situs saya – ya! Saya adalah seorang pelajar yang membuat situs ini untuk menambah wawasan saya. Jika ada waktu kosong, sebisanya saya akan membuat `}
+              <Link href="/blog">tulisan</Link>
+              {' yang dapat berisi opini dan dokumentasi untuk keperluan saya pribadi. Have a good read!'}
             </h2>
           </div>
           <div className="flex items-center justify-center mx-2 my-12 w-96">
