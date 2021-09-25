@@ -28,11 +28,11 @@ module.exports = {
           css: {
             color: theme('colors.gray.700'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.primary'),
               '&:hover': {
-                color: theme('colors.primary.600'),
+                color: theme('colors.primary'),
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.primary') },
             },
             h1: {
               fontWeight: '700',
@@ -93,11 +93,11 @@ module.exports = {
                   css: {
                     color: theme('colors.gray.300'),
                     a: {
-                      color: theme('colors.primary.500'),
+                      color: theme('colors.primary'),
                       '&:hover': {
-                        color: theme('colors.primary.400'),
+                        color: theme('colors.primary'),
                       },
-                      code: { color: theme('colors.primary.400') },
+                      code: { color: theme('colors.primary') },
                     },
                     h1: {
                       fontWeight: '700',
