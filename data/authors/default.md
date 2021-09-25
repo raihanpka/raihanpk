@@ -13,5 +13,5 @@ Selamat datang di blog saya. Blog ini saya gunakan sebagai tempat untuk tempat m
 
 Saya hanyalah seorang pelajar yang kebetulan saja membuat blog seperti ini karena _iseng_ akibat pandemi yang melanda dunia pada tahun 2020. Biasa diberikan kue dengan ucapan selamat pada tanggal 3 Januari.
 
-Sedikit hal tentang blog ini, blog ini dibangun menggunakan **Next.js** dan **Tailwind CSS**. Semua tulisan yang ada di sini dikelola menggunakan __sintaksis__ **Markdown**, jadi tidak pakai CMS seperti WordPress atau Blogger ya.
+Sedikit hal tentang blog ini, blog ini dibangun menggunakan **Next.js** dan **Tailwind CSS**. Semua tulisan yang ada di sini dikelola menggunakan _sintaksis_ **Markdown**, jadi tidak pakai CMS seperti WordPress atau Blogger ya.
 

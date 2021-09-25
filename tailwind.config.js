@@ -20,7 +20,8 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.sky,
+        primary: '#425664',
+        gray: color.trueGray,
       },
       typography: (theme) => ({
         DEFAULT: {
@@ -85,7 +86,7 @@ module.exports = {
             blockquote: {
               color: theme('colors.gray.900'),
               borderLeftColor: theme('colors.gray.200'),
-            },
+            },  
           },
         },
         dark: {
