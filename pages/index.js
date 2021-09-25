@@ -27,11 +27,11 @@ export default function Home({ posts }) {
             <h2 className="text-lg prose text-gray-600 dark:text-gray-400">
               {`Selamat datang di situs saya - ${siteMetadata.description}. Saya adalah seorang pelajar yang membuat situs ini untuk menambah wawasan saya. Jika ada waktu kosong, sebisanya saya akan membuat `}
               <Link href="/blog">blog</Link>
-              {' yang dapat berisi tulisan dan opini ataupun dokumentasi untuk keperluan saya pribadi. Have a good read!'}
+              {' yang dapat berisi tulisan, opini maupun dokumentasi untuk keperluan saya pribadi. Have a good read!'}
             </h2>
           </div>
           <div className="flex items-center justify-center mx-2 my-12 w-96">
-            <BlogNewsletterForm title="Dapatkan informasi setiap ada postingan baru" />
+            <BlogNewsletterForm title="Dapatkan pemberitahuan setiap ada postingan baru" />
           </div>
         </div>
         <h2 className="flex pb-6 text-2xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl md:text-5xl">
