@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Raihan PK',
   description: 'Websitenya Raihan Putra Kirana',
   language: 'id',
-  siteUrl: 'https://www.raihanpk.space',
+  siteUrl: 'https://www.raihanpk.com',
   siteRepo: 'https://github.com/itslunareix/raihanpk',
   image: '/static/img/avatar.png',
   socialBanner: '/static/img/twitter-card.png',

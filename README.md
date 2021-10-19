@@ -1,4 +1,4 @@
-# Raihan PK Blog
+# www.raihanpk.com
 
 ## Motivation
 I create the blog mostly with Bahasa.
@@ -10,7 +10,7 @@ And i really appreciate it if i can read your comments on the articles that i wr
 This blog is hosted on [Vercel](https://vercel.com/), built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) using **Tailwind Nextjs Starter Blog**.
 
 ## Special Credit
-And a huge thanks to [Timothy Lin](https://twitter.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog starter.
+A huge thanks to [Timothy Lin](https://twitter.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog starter.
 
 ## Images
 
