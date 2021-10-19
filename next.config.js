@@ -42,11 +42,6 @@ module.exports = withBundleAnalyzer({
   async redirects() {
     return [
       {
-        source: 'https://raihanpk.space',
-        destination: 'https://raihanpk.com',
-        statusCode: 301,
-      },
-      {
         source: '/:path/index.xml',
         destination: '/:path/feed.xml',
         permanent: true,
