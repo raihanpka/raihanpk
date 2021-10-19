@@ -2,7 +2,7 @@
 
 ## Motivation
 I create the blog mostly with Bahasa.
-My main motivation to create this blog is to improve my language structure and to keep things that i have learned.
+My main motivation to create this blog is to improve my writing skill and to keep things that i have learned.
 
 And i really appreciate it if i can read your comments on the articles that i wrote.
 
