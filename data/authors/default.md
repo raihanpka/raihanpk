@@ -35,7 +35,7 @@ Situs berhasil dibuat & diluncurkan.
 
 ---
 
-##### 2020
+#### 2020
 
 Mempunyai rencana untuk membuat situs namun tidak dapat menemukan platform yang sesuai.
 
@@ -45,7 +45,7 @@ COVID-19 masuk ke Indonesia.
 
 ---
 
-##### 2005 - 2019
+#### 2005 - 2019
 
 Dilahirkan dan dibesarkan di Bogor, Indonesia.
 
