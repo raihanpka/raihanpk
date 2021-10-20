@@ -28,7 +28,7 @@ export default function Home({ posts }) {
           {" "}
             </h1>
             <h2 className="text-lg prose text-gray-600 dark:text-gray-400">
-              {`Selamat datang di situs saya – ya! Saya adalah seorang pelajar yang membuat situs ini untuk menambah wawasan saya. Jika ada waktu kosong, sebisanya saya akan membuat `}
+              {`Selamat datang di rumah saya di internet. Jika ada waktu luang, sebisanya saya akan membuat `}
               <Link href="/blog">tulisan</Link>
               {' yang dapat berisi opini ataupun dokumentasi untuk keperluan saya pribadi. Have a good read!'}
             </h2>
