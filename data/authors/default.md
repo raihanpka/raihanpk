@@ -3,7 +3,7 @@ name: Raihan Putra Kirana
 avatar: /static/img/avatar.png
 occupation: Pelajar
 company: SMA
-email: info@raihanpk.space
+email: me@raihanpk.com
 twitter: https://twitter.com/itslunareix
 github: https://github.com/itslunareix
 discord: https://discord.com/users/529339818191224833

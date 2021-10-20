@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/itslunareix/raihanpk',
   image: '/static/img/avatar.png',
   socialBanner: '/static/img/twitter-card.png',
-  email: 'info@raihanpk.space',
+  email: 'me@raihanpk.com',
   github: 'https://github.com/itslunareix',
   twitter: 'https://twitter.com/itslunareix',
   linkedin: 'https://www.linkedin.com/',
@@ -18,7 +18,7 @@ const siteMetadata = {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: false, // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
-    googleAnalyticsId: 'G-ERJBPQ922Y', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'UA-208521341-1', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
     // Please add your .env file and modify it according to your selection
