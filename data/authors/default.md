@@ -13,7 +13,7 @@ discord: https://discord.com/users/529339818191224833
 
 Selamat datang di situs saya 👋. Situs ini berfungsi sebagai tempat untuk berbagi pemikiran, opini ataupun dokumentasi.
 
-### Credit
+## Credit
 
 Saya belajar cara membangun situs ini sampai berhasil karena orang-orang hebat di komunitas:
 
@@ -25,9 +25,9 @@ Saya belajar cara membangun situs ini sampai berhasil karena orang-orang hebat d
 - Disamping itu, saya juga senang bermain video games yang bergenre strategi, RPG, dan FPS.
 - Saat ini sedang belajar programming dan akan terus belajar.
 
-### Timeline
+## Timeline
 
-#### 2021
+### 2021
 
 Postingan blog pertama.
 
@@ -35,7 +35,7 @@ Situs berhasil dibuat & diluncurkan.
 
 ---
 
-#### 2020
+### 2020
 
 Mempunyai rencana untuk membuat situs namun tidak dapat menemukan platform yang sesuai.
 
@@ -45,11 +45,11 @@ COVID-19 masuk ke Indonesia.
 
 ---
 
-#### 2005 - 2019
+### 2005 - 2019
 
 Dilahirkan dan dibesarkan di Bogor, Indonesia.
 
-### Yang saat ini saya gunakan
+## Yang saat ini saya gunakan
 
 - Hosting: Vercel
 - Domain Registrar: Dewaweb
