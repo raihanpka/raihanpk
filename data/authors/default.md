@@ -13,7 +13,7 @@ discord: https://discord.com/users/529339818191224833
 
 Selamat datang di situs saya 👋. Situs ini berfungsi sebagai tempat untuk berbagi pemikiran, opini ataupun dokumentasi.
 
-## Credit
+## Kredit
 
 Saya belajar cara membangun situs ini sampai berhasil karena orang-orang hebat di komunitas:
 
@@ -23,7 +23,6 @@ Saya belajar cara membangun situs ini sampai berhasil karena orang-orang hebat d
 
 - Saya adalah seorang pelajar yang saat ini masih duduk di bangku SMA. Mempunyai ketertarikan dalam bidang teknologi dan juga sejarah.
 - Disamping itu, saya juga senang bermain video games yang bergenre strategi, RPG, dan FPS.
-- Saat ini sedang belajar programming dan akan terus belajar.
 
 ## Timeline
 

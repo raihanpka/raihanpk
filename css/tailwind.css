@@ -10,7 +10,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Wave Emoji */
+/* Wave Hand Emoji */
 .wave {
   animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
   animation-duration: 2.667s; /* Change to speed up or slow down */
