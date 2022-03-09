@@ -12,7 +12,7 @@ const siteMetadata = {
   github: 'https://github.com/itslunareix',
   twitter: 'https://twitter.com/itslunareix',
   linkedin: 'https://www.linkedin.com/',
-  discord: 'https://discord.com/users/529339818191224833',
+  discord: 'https://dsc.gg/sundaempire',
   locale: 'id',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

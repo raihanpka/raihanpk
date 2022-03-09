@@ -6,7 +6,7 @@ company: SMA
 email: me@raihanpk.com
 twitter: https://twitter.com/itslunareix
 github: https://github.com/itslunareix
-discord: https://discord.com/users/529339818191224833
+discord: https://dsc.gg/sundaempire
 ---
 
 # Tentang Situs Ini
