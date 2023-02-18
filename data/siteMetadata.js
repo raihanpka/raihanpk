@@ -25,7 +25,7 @@ const siteMetadata = {
     provider: 'buttonDown',
   },
   comment: {
-    provider: '', // supported providers: giscus, utterances, disqus
+    provider: 'disqus', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       repo: '', // username/repoName
       // Visit the link below, enter your repo in the configuration section and copy the script data parameters
