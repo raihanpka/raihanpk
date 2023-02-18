@@ -47,7 +47,7 @@ module.exports = withBundleAnalyzer({
         permanent: true,
       },
       {
-        source: '/2017/05/15/hello-world',
+        source: '/2021/09/25/hello-world',
         destination: '/blog/hello-world',
         permanent: true,
       },

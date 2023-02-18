@@ -25,7 +25,7 @@ const siteMetadata = {
     provider: 'buttonDown',
   },
   comment: {
-    provider: 'disqus', // supported providers: giscus, utterances, disqus
+    provider: 'utterances', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       repo: '', // username/repoName
       // Visit the link below, enter your repo in the configuration section and copy the script data parameters
@@ -49,18 +49,18 @@ const siteMetadata = {
       themeURL: '',
     },
     utterancesConfig: {
-      repo: '', // username/repoName
-      issueTerm: '', // supported options: pathname, url, title
-      label: '', // label (optional): Comment 💬
+      repo: 'itslunareix/raihanpk', // username/repoName
+      issueTerm: 'title', // supported options: pathname, url, title
+      label: 'Pojok Komentar 💬', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
-      theme: '',
+      theme: 'github-light',
       // theme when dark mode
-      darkTheme: '',
+      darkTheme: 'github-dark',
     },
     disqus: {
       // https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-      shortname: 'raihanpkblog',
+      shortname: '',
     },
   },
 }
