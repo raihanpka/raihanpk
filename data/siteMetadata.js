@@ -10,7 +10,7 @@ const siteMetadata = {
   socialBanner: '/static/img/twitter-card.png',
   email: 'me@raihanpk.com',
   github: 'https://github.com/itslunareix',
-  twitter: 'https://twitter.com/itslunareix',
+  twitter: 'https://twitter.com/raihanpka',
   linkedin: 'https://www.linkedin.com/',
   discord: 'https://discord.com/users/529339818191224833',
   locale: 'id',
@@ -60,7 +60,7 @@ const siteMetadata = {
     },
     disqus: {
       // https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-      shortname: 'raihanpk',
+      shortname: 'raihanpkblog',
     },
   },
 }
