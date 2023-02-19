@@ -21,4 +21,4 @@ Most of the pictures in this blog are from
 
 ---
 
-Copyright (c) 2021 Raihan Putra Kirana (raihanpk) - Alrights reserved.
+Copyright (c) 2023 Raihan Putra Kirana (raihanpk) - Alrights reserved.
