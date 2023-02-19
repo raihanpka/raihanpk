@@ -13,6 +13,7 @@ const siteMetadata = {
   twitter: 'https://twitter.com/raihanpka',
   linkedin: 'https://www.linkedin.com/',
   discord: 'https://discord.com/users/529339818191224833',
+  spotify: 'https://open.spotify.com/user/xuky516kfjvb1f5xw310bejhq?si=1155c88654e54774',
   locale: 'id',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
