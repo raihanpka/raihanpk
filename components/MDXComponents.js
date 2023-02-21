@@ -5,6 +5,7 @@ import Image from './Image'
 import CustomLink from './Link'
 import TOCInline from './TOCInline'
 import Pre from './Pre'
+import { Spotify } from 'mdx-embed'
 
 export const MDXComponents = {
   Image,

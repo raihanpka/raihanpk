@@ -1,9 +1,25 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
+import { GA_TRACKING_ID } from '@/lib/gtag'
+
 class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
         <Head>
+          {/* Global Site Tag (gtag.js) - Google Analytics */}
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`} />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_TRACKING_ID}', {
+              page_path: window.location.pathname,
+            });
+          `,
+            }}
+          />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -26,24 +42,9 @@ class MyDocument extends Document {
           <meta name="msapplication-TileColor" content="#2b5797" />
           <meta name="theme-color" content="#ffffff" />
           <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-          <link
-            href="/fonts/inter-100.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-          />
-          <link
-            href="/fonts/inter-200.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-          />
-          <link
-            href="/fonts/inter-300.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-          />
+          <link href="/fonts/inter-100.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+          <link href="/fonts/inter-200.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+          <link href="/fonts/inter-300.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
           <link
             rel="preload"
             href="/fonts/inter-regular.woff2"
@@ -51,12 +52,7 @@ class MyDocument extends Document {
             type="font/woff2"
             crossOrigin="anonymous"
           />
-          <link
-            href="/fonts/inter-500.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-          />
+          <link href="/fonts/inter-500.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
           <link
             rel="preload"
             href="/fonts/inter-600.woff2"
@@ -71,18 +67,8 @@ class MyDocument extends Document {
             type="font/woff2"
             crossOrigin="anonymous"
           />
-          <link
-            href="/fonts/inter-800.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-          />
-          <link
-            href="/fonts/inter-900.woff2"
-            as="font"
-            type="font/woff2"
-            crossOrigin="anonymous"
-            />
+          <link href="/fonts/inter-800.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+          <link href="/fonts/inter-900.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
           <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css"

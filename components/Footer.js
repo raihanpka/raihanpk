@@ -16,9 +16,16 @@ export default function Footer() {
         <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{`Copyright © ${new Date().getFullYear()}`}</div>
           <div>{` – `}</div>
-          <Link href="/">{siteMetadata.author}</Link>
+          <Link
+            className="text-gray-600 hover:text-gray-800 dark:text-gray-200 dark:hover:text-gray-100"
+            href="/"
+          >
+            {siteMetadata.author}
+          </Link>
         </div>
-        <NowPlaying />
+        <Link href="https://volt.fm/raihanpk">
+          <NowPlaying />
+        </Link>
         <div className="mb-4 text-sm text-gray-500 dark:text-gray-400">
           Powered by Next.js & Tailwind CSS
         </div>
