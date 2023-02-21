@@ -7,6 +7,7 @@ email: me@raihanpk.com
 twitter: https://twitter.com/raihanpka
 github: https://github.com/itslunareix
 discord: https://discord.com/users/529339818191224833
+spotify: https://open.spotify.com/user/xuky516kfjvb1f5xw310bejhq?si=1155c88654e54774
 ---
 
 # Tentang Situs Ini
@@ -51,7 +52,7 @@ Dilahirkan dan dibesarkan di Bogor, Indonesia.
 ## Yang saat ini saya gunakan
 
 - Hosting: Vercel
-- Domain Registrar: Dewaweb
+- Domain Registrar: Niagahoster
 - Blog Engine: Next.js
 - Styling: Tailwind CSS
 - Email: Yandex Mail
