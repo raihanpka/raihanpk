@@ -37,6 +37,7 @@ export default function NavBar() {
             </div>
           </Link>
         </div>
+
         <div className=" flex items-center text-base leading-5">
           <div className="hidden sm:block">
             {headerNavLinks.map((link) => (
@@ -49,26 +50,6 @@ export default function NavBar() {
               </Link>
             ))}
           </div>
-          <div
-            className={`fixed w-full h-screen top-28 right-0 bg-white dark:bg-black z-10 transform ease-in-out duration-300 ${
-              navShow ? 'translate-x-0' : 'translate-x-full'
-            }`}
-          >
-            <div className="fixed h-full mt-8">
-              {headerNavLinks.map((link) => (
-                <div key={link.title} className="px-12 py-4">
-                  <Link
-                    href={link.href}
-                    className="text-2xl font-bold tracking-widest text-gray-900 dark:text-gray-100"
-                    onClick={onToggleNav}
-                  >
-                    {link.title}
-                  </Link>
-                </div>
-              ))}
-            </div>
-          </div>
-
           <ThemeSwitch />
           <div className="sm:hidden">
             <button
