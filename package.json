@@ -1,6 +1,6 @@
 {
   "name": "raihanpk.com",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "next-remote-watch ./data",
@@ -22,10 +22,12 @@
     "googleapis": "^85.0.0",
     "gray-matter": "^4.0.2",
     "image-size": "1.0.0",
+    "ioredis": "^4.27.3",
     "mdx-bundler": "^6.0.1",
     "mdx-embed": "^0.0.19",
     "next": "11.1.2",
     "next-themes": "^0.0.14",
+    "planetscale-node": "^0.1.0",
     "postcss": "^8.3.5",
     "pre-commit": "^1.2.2",
     "preact": "^10.5.13",
