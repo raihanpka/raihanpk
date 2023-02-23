@@ -29,8 +29,8 @@ const useReadingTime = () => {
 }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { slug, fileName, date, title, tags } = frontMatter
-  const [readingTime, articleRef] = useReadingTime()
+  const { slug, fileName, date, title, tags } = frontMatter;
+  const [readingTime, articleRef] = useReadingTime();
 
   return (
     <SectionContainer>
@@ -44,7 +44,12 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   <dt className="sr-only">Published on</dt>
                   <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                     <time dateTime={date}>
-                      {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
+                        {new Date(date).toLocaleDateString(siteMetadata.locale, {
+                          weekday: "long",
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric",
+                        })}
                     </time>
                   </dd>
                 </div>
@@ -53,7 +58,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <PageTitle>{title}</PageTitle>
               </div>
               <span className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
-                {readingTime} {readingTime == 1 ? ' minute ' : ' minutes ' + ' read - '}
+                {readingTime}{" "}
+                {readingTime == 1 ? ' minute ' : ' minutes ' + ' read - '}
                 {<ViewCounter slug={slug} />}
               </span>
             </div>
@@ -97,9 +103,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <Link href={discussUrl(slug)} rel="nofollow">
                   {'Discuss on Twitter'}
                 </Link>
-                {` • `}
-                <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
+              <Comments frontMatter={frontMatter} />
             </div>
             <footer>
               <div className="text-sm font-medium leading-5 divide-gray-200 xl:divide-y dark:divide-gray-700 xl:col-start-1 xl:row-start-2">

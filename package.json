@@ -22,7 +22,6 @@
     "googleapis": "^85.0.0",
     "gray-matter": "^4.0.2",
     "image-size": "1.0.0",
-    "ioredis": "^4.27.3",
     "mdx-bundler": "^6.0.1",
     "mdx-embed": "^0.0.19",
     "next": "11.1.2",
