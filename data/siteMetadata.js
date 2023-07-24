@@ -26,9 +26,9 @@ const siteMetadata = {
     provider: 'buttonDown',
   },
   comment: {
-    provider: 'utterances', // supported providers: giscus, utterances, disqus
+    provider: 'giscus', // supported providers: giscus, utterances, disqus
     giscusConfig: {
-      repo: '', // username/repoName
+      repo: 'itslunareix/raihanpk', // username/repoName
       // Visit the link below, enter your repo in the configuration section and copy the script data parameters
       // Before that you should create a new Github discussions category with the Announcements type so that new discussions can only be created by maintainers and giscus
       // https://giscus.app/
@@ -36,7 +36,7 @@ const siteMetadata = {
       category: '',
       categoryId: '',
       mapping: '', // supported options: pathname, url, title
-      reactions: '', // Emoji reactions: 1 = enable / 0 = disable
+      reactions: '1', // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
       metadata: '',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
