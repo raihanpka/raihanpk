@@ -12,7 +12,6 @@ export default function AuthorLayout({ children, frontMatter }) {
     twitter,
     linkedin,
     github,
-    discord,
     spotify,
   } = frontMatter
 
@@ -39,9 +38,10 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="text-gray-500 dark:text-gray-400">{company}</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${email}`} />
-              <SocialIcon kind="discord" href={discord} />
-              <SocialIcon kind="spotify" href={spotify} />
+              <SocialIcon kind="linkedin" href={linkedin} />
+              <SocialIcon kind="github" href={github} />
               <SocialIcon kind="twitter" href={twitter} />
+              <SocialIcon kind="spotify" href={spotify} />
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">{children}</div>
